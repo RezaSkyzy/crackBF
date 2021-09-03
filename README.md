@@ -1,1 +1,3 @@
 # crackBF
+
+script pribadi
